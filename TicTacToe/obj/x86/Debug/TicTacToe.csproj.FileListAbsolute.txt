@@ -1,0 +1,6 @@
+/Users/danmalmx/own-projects/Udemy/c#/TicTacToe/TicTacToe/bin/Debug/TicTacToe.exe
+/Users/danmalmx/own-projects/Udemy/c#/TicTacToe/TicTacToe/bin/Debug/TicTacToe.pdb
+/Users/danmalmx/own-projects/Udemy/c#/TicTacToe/TicTacToe/obj/x86/Debug/TicTacToe.csprojAssemblyReference.cache
+/Users/danmalmx/own-projects/Udemy/c#/TicTacToe/TicTacToe/obj/x86/Debug/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/danmalmx/own-projects/Udemy/c#/TicTacToe/TicTacToe/obj/x86/Debug/TicTacToe.exe
+/Users/danmalmx/own-projects/Udemy/c#/TicTacToe/TicTacToe/obj/x86/Debug/TicTacToe.pdb
